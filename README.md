@@ -1,1 +1,1 @@
-# end-to-end-object-detection-project
+# end-to-end-sign-language-detection-project
