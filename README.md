@@ -1,1 +1,1 @@
-# end-to-end-obeject-detection-project
+# end-to-end-object-detection-project
